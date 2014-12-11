@@ -2,6 +2,7 @@ I started in the Ruby world, but now I love JavaScript.
 
 ## Deadly Skills
 
-* Git
+* Guby on Rails
 * JavaScript
-* Ruby
+* Node.js
+
