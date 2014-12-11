@@ -1,4 +1,6 @@
-iRuby
+*Git
+*JavaScript
+*Ruby
 Test
 hjfsgsfhjsfgfjfgjhfhjs
 hfghfgfsgfgfgfshhfsddfsjhdsf
