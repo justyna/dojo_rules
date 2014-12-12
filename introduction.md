@@ -5,5 +5,4 @@ I started in the Ruby world, but now I love JavaScript.
 * Guby on Rails
 * JavaScript
 * Node.js
-
-1111111
+* rebase
