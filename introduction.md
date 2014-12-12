@@ -1,7 +1,8 @@
-Ruby
-Test
-hjfsgsfhjsfgfjfgjhfhjs
-hfghfgfsgfgfgfshhfsddfsjhdsf
-hdfhgdfhjgfgfhjfdgdghjs
-ryryiureuroiruiewhdhdhdsgasdhfshshsdfk
-hfufhfjfjfjsfdklhjfsjkfshfsfnbcncbcmncb
+I started in the Ruby world, but now I love JavaScript.
+
+## Deadly Skills
+
+* Guby on Rails
+* JavaScript
+* Node.js
+* rebase
